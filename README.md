@@ -17,6 +17,19 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
 
 ---
 
+## 📚 Sumário
+
+- [🛣️ Trajetto](#-trajetto)
+- [🧩 Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [🗂️ Estrutura de Pastas e Links Úteis](#-estrutura-de-pastas-e-links-úteis)
+- [🧠 Lógica do App](#-lógica-do-app)
+- [🖼️ Telas do app](#-telas-do-app)
+- [🛠️ Banco de Dados Supabase](#-banco-de-dados-supabase)
+- [📍 Google Maps API](#-google-maps-api)
+- [📦 Como rodar](#-como-rodar)
+
+---
+
 ## 🗂️ Estrutura de Pastas e Links Úteis
 
 | Arquivo | Descrição |
@@ -38,6 +51,16 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
   - **Iniciar entrega**, que muda o status para `Em andamento`
   - **Concluir entrega**, que muda o status para `Concluído`
   - **Reportar problema**, que insere na tabela `reports` e muda status para `Adiado`
+
+---
+
+## 🖼️ Telas do app
+
+![Login](https://github.com/user-attachments/assets/438769ee-5152-4fb3-89e0-b134275f8ba5)
+*Telas de login, cadastro e dashboard*
+
+![app](https://github.com/user-attachments/assets/b7795a12-6a74-4072-b7c0-500e73a6d907)
+*Telas de detalhes, entrega e de reports*
 
 ---
 
