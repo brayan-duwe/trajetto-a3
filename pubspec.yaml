@@ -1,0 +1,38 @@
+name: trajetto
+description: "Trajetto"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.5.0
+  geolocator: ^11.0.0
+  geocoding: ^2.1.0
+  url_launcher: ^6.2.4
+  cupertino_icons: ^1.0.8
+  android_intent_plus: ^5.3.0
+  intl: ^0.19.0
+  supabase_flutter:
+    path: "C:/Users/braya/OneDrive/Documentos/supabase/supabase-flutter/packages/supabase_flutter"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo_branca.png
+    - assets/logo_preta.png
+    - assets/fundo_login.png
+
+flutter_native_splash:
+  color: "#037AEF"
+  image: assets/logo_branca.svg
+  android: true
+  ios: true
