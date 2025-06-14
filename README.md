@@ -5,6 +5,10 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
 
 ---
 
+## [🌐 Trajetto Web - Repositório](https://github.com/WislerC/atividade3)
+
+---
+
 ## 🧩 Tecnologias utilizadas
 
 - **Flutter** com Dart
@@ -19,7 +23,7 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
 
 ## 📚 Sumário
 
-- [🛣️ Trajetto](#-trajetto)
+- [🌐Trajetto Web - Repositório](#-trajetto-web--repositorio)
 - [🧩 Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [🗂️ Estrutura de Pastas e Links Úteis](#-estrutura-de-pastas-e-links-úteis)
 - [🧠 Lógica do App](#-lógica-do-app)
@@ -54,7 +58,7 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
 
 ---
 
-## 🖼️ Telas do app
+## 🖼️ Telas do App
 
 ![Login](https://github.com/user-attachments/assets/438769ee-5152-4fb3-89e0-b134275f8ba5)
 *Telas de login, cadastro e dashboard*
