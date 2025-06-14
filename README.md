@@ -23,12 +23,12 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
 
 ## 📚 Sumário
 
-- [🌐Trajetto Web - Repositório](#-trajetto-web--repositorio)
+- [🌐Trajetto Web - Repositório](#-trajetto-web---repositório)
 - [🧩 Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [🗂️ Estrutura de Pastas e Links Úteis](#-estrutura-de-pastas-e-links-úteis)
+- [🗂️ Estrutura de Pastas e Links Úteis](#%EF%B8%8F-estrutura-de-pastas-e-links-úteis)
 - [🧠 Lógica do App](#-lógica-do-app)
 - [🖼️ Telas do app](#%EF%B8%8F-telas-do-app)
-- [🛠️ Banco de Dados Supabase](#-banco-de-dados-supabase)
+- [🛠️ Banco de Dados Supabase](#%EF%B8%8F-banco-de-dados-supabase)
 - [📍 Google Maps API](#-google-maps-api)
 - [📦 Como rodar](#-como-rodar)
 
