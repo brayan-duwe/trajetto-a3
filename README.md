@@ -27,7 +27,7 @@ A proposta é permitir que motoristas visualizem, reportem e concluam entregas d
 - [🧩 Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [🗂️ Estrutura de Pastas e Links Úteis](#-estrutura-de-pastas-e-links-úteis)
 - [🧠 Lógica do App](#-lógica-do-app)
-- [🖼️ Telas do app](#-telas-do-app)
+- [🖼️ Telas do app](#%EF%B8%8F-telas-do-app)
 - [🛠️ Banco de Dados Supabase](#-banco-de-dados-supabase)
 - [📍 Google Maps API](#-google-maps-api)
 - [📦 Como rodar](#-como-rodar)
